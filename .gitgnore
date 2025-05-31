@@ -1,0 +1,32 @@
+# Python 가상환경 디렉토리
+materials-env/
+venv/
+ENV/
+.env/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 운영체제별 무시 파일
+.DS_Store
+Thumbs.db
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.swp
+
+# 모델 및 빌드 결과물
+*.pkl
+*.h5
+*.ckpt
+*.joblib
+
+# 기타 IDE 설정
+.vscode/
+.idea/
