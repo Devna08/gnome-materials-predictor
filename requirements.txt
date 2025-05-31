@@ -1,0 +1,17 @@
+matplotlib
+pandas
+numpy
+scikit-learn
+matminer
+pymatgen
+mp-api
+jax
+jaxlib
+flax
+optax
+e3nn-jax
+ml-collections
+jraph
+google-cloud-storage
+absl-py
+pybtex
